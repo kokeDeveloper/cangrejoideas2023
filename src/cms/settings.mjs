@@ -125,6 +125,7 @@ export const settings = {
         },
       ],
     },
+
     {
       name: "project",
       label: t("portfolio_settings"),

@@ -4,12 +4,14 @@ import { getEntry } from "astro:content";
 import PageLayoutArchive from "@layouts/PageLayoutArchive.astro";
 import { getCollection } from "astro:content";
 
+
+/* Esta función es una función asíncrona que se utiliza para obtener las rutas estáticas que se utilizarán en la generación de las páginas del archivo del blog. */
 export async function getStaticPaths({ paginate }) {
   const posts = (await getCollection("project")).sort(
-    (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+    (a, b) => b.data.date.valueOf() - a.data.date.valueOf(), /* Ordena los elementos en la colección según la fecha de publicación en orden descendente. */
   );
   const { data } = await getEntry("config", "project");
-  return paginate(posts, { pageSize: data.per_page });
+  return paginate(posts, { pageSize: data.per_page }); 
 }
 
 const posts = (await getCollection("project")).sort(

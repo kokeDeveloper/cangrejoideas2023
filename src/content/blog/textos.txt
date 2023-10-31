@@ -1,0 +1,18 @@
+Somos un estudio de video juegos que se dedica a crear experiencias divertidas y originales en HTML 5.
+
+¿Por qué HTML 5? Porque nos permite hacer juegos que se pueden jugar en cualquier dispositivo, desde ordenadores hasta móviles, pasando por 
+consolas y smart TVs. Además, HTML 5 es un estándar abierto y accesible, que respeta la libertad y la privacidad de los usuarios. En "Cangrejo Ideas" 
+nos apasiona el arte y la tecnología, y queremos compartir nuestra visión con el mundo. Por eso, en este blog te vamos a contar cómo hacemos nuestros juegos, 
+qué herramientas usamos, qué desafíos enfrentamos y qué aprendemos en el camino. También te vamos a mostrar algunos de nuestros proyectos actuales y futuros, 
+y te invitamos a que nos des tu opinión y sugerencias. Si te gustan los video juegos y quieres saber más sobre el desarrollo indie en HTML 5, 
+¡este es tu sitio! Bienvenido a "Cangrejo Ideas", el blog de los juegos que se adaptan a ti.
+
+
+
+We are a video game studio dedicated to creating fun and original experiences in HTML 5.
+
+Why HTML 5? Because it allows us to make games that can be played on any device, from computers to mobiles, all the way to consoles and smart TVs. 
+Additionally, HTML 5 is an open and accessible standard that respects user freedom and privacy. At "Cangrejo Ideas," we are passionate about art and technology, 
+and we want to share our vision with the world. That's why, in this blog, we will tell you how we make our games, what tools we use, the challenges we face, 
+and what we learn along the way. We will also showcase some of our current and future projects, and we invite you to share your opinions and suggestions with us. 
+If you love video games and want to learn more about indie game development in HTML 5, this is the place for you! Welcome to Cangrejo Ideas
